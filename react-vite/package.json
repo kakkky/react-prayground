@@ -12,7 +12,7 @@
     "test": "vitest watch",
     "coverage": "vitest run --coverage",
     "format": "prettier . --write",
-    "prepare": "npx lint-staged"
+    "prepare": "husky"
   },
   "dependencies": {
     "react": "^19.0.0",
