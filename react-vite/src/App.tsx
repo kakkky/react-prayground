@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        <p>Hello,wostbsrbnrsnbrlddddsrtbsrbdsfvav</p>
+        <p>Hello,worlds</p>
         <a href="https://vite.dev" target="_blank" rel="noreferrer">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
