@@ -5,6 +5,7 @@ export default function TextInput() {
 
   return (
     <div>
+      <h1>ヨプよう</h1>
       <input
         type="text"
         value={text}
