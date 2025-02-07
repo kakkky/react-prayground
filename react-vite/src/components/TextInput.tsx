@@ -13,6 +13,7 @@ export default function TextInput() {
         aria-label="text-input"
       />
       <p>Enterd Text:{text}</p>
+      <p>あfvsbv</p>
     </div>
   );
 }
