@@ -22,9 +22,9 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true,
     // import alias
-    "baseUrl": "./", // プロジェクトルートを起点にする
+    "baseUrl": ".",
     "paths": {
-      "@/*": ["src/*"] // src/ を @/ に置き換える
+      "@/*": ["./src/*"]
     },
     "types": ["vitest/globals"]
   },

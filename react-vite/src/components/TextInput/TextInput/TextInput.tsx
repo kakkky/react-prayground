@@ -5,7 +5,6 @@ export default function TextInput() {
 
   return (
     <div>
-      <h1>ヨプようd</h1>
       <input
         type="text"
         value={text}
@@ -13,7 +12,6 @@ export default function TextInput() {
         aria-label="text-input"
       />
       <p>Enterd Text:{text}</p>
-      <p>あfvsbv</p>
     </div>
   );
 }
