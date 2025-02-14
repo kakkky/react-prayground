@@ -1,4 +1,6 @@
 import type { Preview } from '@storybook/react';
+// index.cssをインポートしないとtailwindcssが当たらん
+import '@/index.css';
 
 const preview: Preview = {
   parameters: {
